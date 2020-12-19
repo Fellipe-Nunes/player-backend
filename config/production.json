@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://playerum:1234@cluster0.pmhcg.mongodb.net/playerum?retryWrites=true&w=majority",
+    "jwtSecret": "NAqRHF48QTo0ky6WBLIO5JcCtmlgVUuEz3GwDeYsMpbK2vnfdxjhra7SP9X1Zi",
+    "githubToken":"<yoursecretaccesstoken>"
+}
